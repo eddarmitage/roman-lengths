@@ -9,3 +9,7 @@ Can be run as follows:
     7
     ➜
 
+Tests can be run as follows:
+
+    ➜ pip install -r requirements.txt
+    ➜ pytest
